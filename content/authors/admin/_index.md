@@ -56,13 +56,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dt-333635ab/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -73,4 +69,4 @@ highlight_name: true
 
 I'm a PhD candidate at the NYU Abu Dhabi Robotics and Intelligent Systems Control Lab, advised by Prof. Anthony Tzes. My research interests heavily lie at the intersection of computer vision and Unmanned Aerial Vehicle (UAV) applications. I'm currently dedicated to designing advanced deep learning algorithms for real-time visual detection & tracking system, with a primary application on drone and general object tracking, environment perception.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
