@@ -4,5 +4,6 @@ widget: pages
 headless: true
 weight: 40
 title: News
+active: False
 ---
 
