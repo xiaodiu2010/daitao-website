@@ -6,8 +6,8 @@ title: Daitao Xing
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate 
-      New York University  
+role: PhD candidate <br/>
+      New York University <br/>
       New York University Abu Dhabi
 
 # Organizations/Affiliations to show in About widget
@@ -29,7 +29,8 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: New York University/New York University Abu Dhabi
+      institution: New York University <br/>
+                   New York University Abu Dhabi
       year: 2018
     - course: MS in Computer Science
       institution: New York University
@@ -43,21 +44,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/XiaoLisp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=WKvVqPAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/xiaodiu2010
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dt-333635ab/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
