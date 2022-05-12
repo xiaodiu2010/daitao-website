@@ -29,7 +29,7 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: New York University <br/>
+      institution: New York University/
                    New York University Abu Dhabi
       year: 2018
     - course: MS in Computer Science
