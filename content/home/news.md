@@ -1,9 +1,11 @@
 ---
-widget: pages
-# This file represents a page section.
+widget: blank
 headless: true
-weight: 40
 title: News
-active: False
+subtitle:
+weight: 40  # section position on page
+design:
+  columns: '2'
 ---
 
+* Add any content here - text, images, videos, galleries - and even HTML code!
