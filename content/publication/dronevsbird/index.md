@@ -18,7 +18,7 @@ url_project: ""
 publication_short: In *ICIAP2022*
 url_source: ""
 url_video: ""
-title: Drone Surveillance using Detection,Tracking and Classification Techniques
+title: Drone Surveillance using Detection Tracking and Classification Techniques
 doi: ""
 featured: false
 tags: []
