@@ -36,17 +36,17 @@ authors:
   - Nikolaos Evangeliou
   - Anthony Tzes
 author_notes: []
-publication: in *THE 2022 INTERNATIONAL CONFERENCE ON UNMANNED AIRCRAFT SYSTEMS*
+publication: in *THE 2022 INTERNATIONAL CONFERENCE ON IMAGING ANALYSIS AND PROCESSING*
 summary:   Recent visual object trackers provide strong dis-
   criminability towards accurate tracking under challenging sce-
   narios while neglecting the inference efficiency. Those methods
   handle all inputs with ...
 url_dataset: ""
 url_project: ""
-publication_short: In *ICUAS2022*
+publication_short: In *ICIAP2022*
 url_source: ""
 url_video: ""
-title: Siamese Adaptive Transformer Network for Real-Time Aerial Tracking
+title: Drone Surveillance using Detection,Tracking and Classification Techniques
 doi: ""
 featured: false
 tags: []
