@@ -12,10 +12,7 @@ authors:
   - Anthony Tzes
 author_notes: []
 publication: in *THE 2022 INTERNATIONAL CONFERENCE ON IMAGING ANALYSIS AND PROCESSING*
-summary:   Recent visual object trackers provide strong dis-
-  criminability towards accurate tracking under challenging sce-
-  narios while neglecting the inference efficiency. Those methods
-  handle all inputs with ...
+summary:   In this work, we explore the process of designing a long-term drone surveillance system by fusing object detection, tracking and classification methods...
 url_dataset: ""
 url_project: ""
 publication_short: In *ICIAP2022*
