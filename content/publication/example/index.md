@@ -1,79 +1,65 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: |-
+  Recent visual object trackers provide strong dis-
+  criminability towards accurate tracking under challenging sce-
+  narios while neglecting the inference efficiency. Those methods
+  handle all inputs with identical computation and fail to reduce
+  intrinsic computational redundancy, which constrains their
+  deployment on Unmanned Aerial Vehicles (UAVs). In this
+  work, we propose a dynamic tracker which selectively activates
+  the individual model components and allocates computation
+  resources on demand during the inference, which allows deep
+  network inference on onboard-CPU at real-time speed. The
+  tracking pipeline is divided into several stages, where each stage
+  consists of a transformer-based encoder that generates a robust
+  target representation by learning pixels interdependence. An
+  adaptive network selection module controls the propagation
+  routing path determining the optimal computational graph
+  according to confidence-based criteria. We further propose
+  a spatial adaptive attention network to avoid computational
+  overhead in the transformer encoder, where the self-attention
+  only aggregates the dependencies information among selected
+  points. Our model achieves a harmonious proportion between
+  accuracy and efficiency for dealing with varying scenarios,
+  leading to notable advantages over static models with a fixed
+  computational cost. Comprehensive experiments on aerial and
+  prevalent tracking benchmarks achieve competitive results
+  while operating at high speed, demonstrating its suitability on
+  UAV-platforms which do not carry a dedicated GPU.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Daitao Xing
+  - Athanasios Tsoukalas
+  - Nikolaos Evangeliou
+  - Nikolaos Giakoumidis
+  - Anthony Tzes.
+author_notes: []
+publication: in **THE 2022 INTERNATIONAL CONFERENCE ON UNMANNED AIRCRAFT SYSTEMS
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: In *ICUAS2022*
+url_source: ""
+url_video: ""
+title: Siamese Adaptive Transformer Network for Real-Time Aerial Tracking
+doi: ""
+featured: false
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2022-04-16T00:00:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
