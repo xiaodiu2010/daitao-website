@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Introduction to ROS: Part I
+subtitle: How to build your first ROS package
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: How to build your first ROS package
 
 # Link this post with a project
 projects: []
@@ -30,15 +30,15 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - ROS
+  - C++
+  - Python
 
 categories:
   - Demo
-  - 教程
+  - Tutorial
 ---
 
 ## Overview

@@ -20,4 +20,3 @@ design:
 * 09-2021: Our Paper titled "Siamese Transformer Pyramid Networks for Real-Time UAV Tracking" has been accepted to WACV2022.
 * 09-2021: We won the **1st pride award** for the drone category during the [2021 Dubai World Challenge competition](https://twitter.com/XiaoLisp/status/1453685884642074627?s=20&t=_U3YMIZK_zFBDRb_XppKqQ).
 * 04-2021: We have two papers titled "Computationally Efficient RGB-T UAV Detection and Tracking System" and "Deep learning assisted visual tracking of evader-UAV" have been accepted to ICUAS2021.
-* 09-2018: I received Global PhD Fellowship from NYU Abu Dhabi.
