@@ -1,5 +1,5 @@
 ---
-title: Introduction to ROS: Part I
+title: Introduction to ROS
 subtitle: How to build your first ROS package
 
 # Summary for listings and search engines
