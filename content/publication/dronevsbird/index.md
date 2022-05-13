@@ -32,38 +32,15 @@ publication_types:
   - "1"
 authors:
   - Daitao Xing
-  - Athanasios Tsoukalas
+  - Halil Utku Unlu
   - Nikolaos Evangeliou
-  - Nikolaos Giakoumidis
   - Anthony Tzes
 author_notes: []
 publication: in *THE 2022 INTERNATIONAL CONFERENCE ON UNMANNED AIRCRAFT SYSTEMS*
 summary:   Recent visual object trackers provide strong dis-
   criminability towards accurate tracking under challenging sce-
   narios while neglecting the inference efficiency. Those methods
-  handle all inputs with identical computation and fail to reduce
-  intrinsic computational redundancy, which constrains their
-  deployment on Unmanned Aerial Vehicles (UAVs). In this
-  work, we propose a dynamic tracker which selectively activates
-  the individual model components and allocates computation
-  resources on demand during the inference, which allows deep
-  network inference on onboard-CPU at real-time speed. The
-  tracking pipeline is divided into several stages, where each stage
-  consists of a transformer-based encoder that generates a robust
-  target representation by learning pixels interdependence. An
-  adaptive network selection module controls the propagation
-  routing path determining the optimal computational graph
-  according to confidence-based criteria. We further propose
-  a spatial adaptive attention network to avoid computational
-  overhead in the transformer encoder, where the self-attention
-  only aggregates the dependencies information among selected
-  points. Our model achieves a harmonious proportion between
-  accuracy and efficiency for dealing with varying scenarios,
-  leading to notable advantages over static models with a fixed
-  computational cost. Comprehensive experiments on aerial and
-  prevalent tracking benchmarks achieve competitive results
-  while operating at high speed, demonstrating its suitability on
-  UAV-platforms which do not carry a dedicated GPU.
+  handle all inputs with ...
 url_dataset: ""
 url_project: ""
 publication_short: In *ICUAS2022*
