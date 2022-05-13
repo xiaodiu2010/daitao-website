@@ -35,7 +35,7 @@ authors:
   - Athanasios Tsoukalas
   - Nikolaos Evangeliou
   - Nikolaos Giakoumidis
-  - Anthony Tzes.
+  - Anthony Tzes
 author_notes: []
 publication: in *THE 2022 INTERNATIONAL CONFERENCE ON UNMANNED AIRCRAFT SYSTEMS*
 summary:   Recent visual object trackers provide strong dis-
