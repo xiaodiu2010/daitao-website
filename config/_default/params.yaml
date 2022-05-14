@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal website for Daitao Xing, shares academic resume and projects here'
+    twitter: 'xiaolisp'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification=KxkvSSeSVhqTVNjZjPYCrBTuua53TUivRWdOrYHW_Q4'
     baidu: ''
 
 # Site header
