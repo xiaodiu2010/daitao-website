@@ -10,7 +10,8 @@ content:
 design:
   columns: "2"
 ---
-* 04-2022: I will join [InnoPeak Inc](https://www.innopeaktech.com/). in California this summer as a research intern.
+* 11-2022: Our paper done during internship is accepted by AAAI 2023
+* 06-2022: Starting my internship at OPPO US research in San Jose.
 * 04-2022: Our Paper titled "Siamese Adaptive Transformer Network for Real-Time Aerial Tracking" has been accepted to ICUAS2022. 
 * 04-2022: Our Paper titled "Drone Surveillance using Detection, Tracking and Classification Techniques" has been accepted to ICIAP2022 workshop.
 * 03-2022: Our real-time drone visual surveillance system won 2nd place in "Drone Vs Bird Challenge 2022"!
