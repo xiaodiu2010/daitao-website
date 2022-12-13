@@ -9,7 +9,7 @@ authors:
   - Daitao Xing
   - Jingling Shen
   - Chiuman Ho
-  - Anthony Tzes.
+  - Anthony Tzes
 author_notes: []
 publication: in *The Thirty-Seventh AAAI Conference on Artificial Intelligence*
 summary:     The exploration of mutual-benefit cross-domains has shown great potential toward accurate self-supervised depth estimation. In this work, we revisit feature fusion ....
@@ -18,7 +18,7 @@ url_project: ""
 publication_short: In *AAAI2023*
 url_source: ""
 url_video: ""
-title: ROIFormer:Semantic-Aware Region of Interest Transformer for Efficient
+title: Semantic-Aware Region of Interest Transformer for Efficient
 Self-Supervised Monocular Depth Estimation
 doi: ""
 featured: false
