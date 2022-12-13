@@ -7,30 +7,29 @@ publication_types:
   - "1"
 authors:
   - Daitao Xing
-  - Jingling Shen
-  - Chiuman Ho
+  - Halil Utku Unlu
+  - Nikolaos Evangeliou
   - Anthony Tzes
 author_notes: []
-publication: in *The Thirty-Seventh AAAI Conference on Artificial Intelligence*
-summary:     The exploration of mutual-benefit cross-domains has shown great potential toward accurate self-supervised depth estimation. In this work, we revisit feature fusion ....
+publication: in *THE 2022 INTERNATIONAL CONFERENCE ON IMAGING ANALYSIS AND PROCESSING*
+summary:   In this work, we explore the process of designing a long-term drone surveillance system by fusing object detection, tracking and classification methods...
 url_dataset: ""
 url_project: ""
-publication_short: In *AAAI2023*
+publication_short: In *ICIAP2022*
 url_source: ""
 url_video: ""
-title: Semantic-Aware Region of Interest Transformer for Efficient
-Self-Supervised Monocular Depth Estimation
+title: Drone Surveillance using Detection,Tracking and Classification Techniques
 doi: ""
 featured: false
 tags: []
 projects: []
 image:
-  caption: "AAAI"
+  caption: "dronevsbird"
   focal_point: ""
   preview_only: false
-date: 2022-11-18T00:00:00.000Z
+date: 2022-04-16T00:00:00.000Z
 url_slides: ""
-publishDate: 2022-11-18T00:00:00.000Z
+publishDate: 2022-04-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
