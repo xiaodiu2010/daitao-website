@@ -15,21 +15,21 @@ publication: in *The Thirty Seventh AAAI Conference on Artificial Intelligence*
 summary: The exploration of mutual-benefit cross-domains has shown great potential toward accurate self-supervised depth estimation. In this work, we revisit feature fusion ....
 url_dataset: ""
 url_project: ""
-publication_short: In *ICIAP2022*
+publication_short: In *AAAI2023*
 url_source: ""
 url_video: ""
-title: Drone Surveillance using Detection,Tracking and Classification Techniques
+title: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation
 doi: ""
 featured: false
 tags: []
 projects: []
 image:
-  caption: "dronevsbird"
+  caption: "AAAI"
   focal_point: ""
   preview_only: false
-date: 2022-04-16T00:00:00.000Z
+date: 2022-11-18T00:00:00.000Z
 url_slides: ""
-publishDate: 2022-04-01T00:00:00Z
+publishDate: 2022-11-18T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
