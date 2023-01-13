@@ -23,7 +23,7 @@ interests:
   - Visual Perception of Mobile Robots 
   - Real-Time Object Detection & Tracking
   - Edge Devices Computation
-  - SLAM
+  - Depth Estimation
 
 # Education to show in About widget
 education:
@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD candidate at the NYU Abu Dhabi Robotics and Intelligent Systems Control Lab, advised by Prof. Anthony Tzes. My research interests heavily lie at the intersection of computer vision and Unmanned Aerial Vehicle (UAV) applications. I'm currently dedicated to designing advanced deep learning algorithms for real-time visual detection & tracking system, with a primary application on drone and general object tracking, environment perception.
+Ph.D. student from New York University, following Prof. Anthony Tzes, expected to graduate in spring, 2023, with experience in developing machine learning models for mobile applications. Adept in various programming languages such as C++, Python, PyTorch, and TensorFlow. Experience in computer vision with publications at top AI & CV conferences. Strong analytical and problem-solving skills, with a passion for staying with cutting-edge advancements in the field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
